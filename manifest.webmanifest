@@ -1,0 +1,10 @@
+{
+  "name": "DENKI PRO - 第二種電気工事士 合格トレーニング",
+  "short_name": "DENKI PRO",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0b1512",
+  "theme_color": "#10221d",
+  "description": "第二種電気工事士の学科試験向け練習アプリ",
+  "icons": []
+}
